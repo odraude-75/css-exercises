@@ -1,1 +1,42 @@
 /* Add CSS Styling */
+
+.paragraph{
+    background-color: rgb(228, 148, 160);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#id-paragraph{
+    color: blue;
+    font-size: 36px;
+}
+
+.new-text {
+    font-size: 24px;
+}
+
+#id-second{
+    background-color: rgb(102, 226, 102);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+/*.even{
+    color: blue;
+    font-size: 36;
+}
+
+.second-even{
+    color: lightgreen;
+    font-size: 24px;
+}
+
+#odd-numbers {
+    font-size: 24;
+
+}
